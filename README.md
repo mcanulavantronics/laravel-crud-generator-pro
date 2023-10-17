@@ -18,7 +18,7 @@ This Laravel Generator package provides and generate Controller, Model (with elo
 ## Installation
 1 - Install
 ```
-composer require ibex/crud-generator --dev
+composer require mcanulavantronics/laravel-crud-generator-pro --dev
 ```
 2- Publish the default package's config
 ```
